@@ -1,7 +1,7 @@
 
 function OnLoad()
     RebornLoaded, RevampedLoaded, MMALoaded, SxOrbLoaded, SOWLoaded = false, false, false, false, false
-	-- Set Target Selector
+	-- Set Target Selector github change
 	TargetSelector = TargetSelector(TARGET_LESS_CAST_PRIORITY, 850, DAMAGE_MAGIC, true)
 	TargetSelector.name = "Custom Target Selector"
 	
